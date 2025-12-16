@@ -1,40 +1,15 @@
-# 👋 ¡Hi! I'm Braulio Sanchez
+# ¡Hi! I'm Braulio Sanchez
 
-## ❗About me
+## About me
 
 Currently I'm a Computer Science student at the University of Sonora and I love to learn new things and face new challenges.
 
-**📬 Contact:** sanchezbraulio542@gmail.com  
-**✨ What I like:** I like to solve problems and create things that make life easier or more fun.
+**Contact:** sanchezbraulio542@gmail.com  
+**What I like:** I like to solve problems and create things that make life easier or more fun.
 
-## 🚀 My Projects
+## My Projects
 
-### 🎮 [Agromania](https://github.com/AleSanchezB/agromania)
-
-This project is a videogame in which I explored how to design mechanics and programming logic when I was getting into programming. It was developed for the National Mathematics Week using **C++** with **Allegro**.
-
-**Collaborators:**
-- [Fausto Medina](https://github.com/Harico04)
-- [Ana Laura Chenoweth](https://github.com/ana-lala)
-
-### 🧩 [Ultimate Tic Tac Toe](https://github.com/AleSanchezB/Ultimate-tic-tac-toe)
-
-This videogame is an Ultimate Tic-Tac-Toe. It was the final project for the programming class, developed in **C++** with **SFML**.
-
-**Collaborators:**
-- [Fausto Medina](https://github.com/Harico04)
-
-### 🌐 [Treyo Clone](https://github.com/AleSanchezB/Treyo)
-
-A project based on Trello (Microsoft application), made with **React** and **Django**. This project helped me learn about web development. It was designed for the Software Engineering class as a final project.
-
-**Collaborators:**
-- [Fausto Medina](https://github.com/Harico04)
-- [Alan Torres](https://github.com/TumbadoBoy0604)
-- [Manuel Gortarez](https://github.com/Mgb64)
-- [Rogelio Peralta](https://github.com/rgperalta04)
-
-## 💻 What I use for programming
+## What I use for programming
 
 Here’s a list of tools and languages that I use:
 
