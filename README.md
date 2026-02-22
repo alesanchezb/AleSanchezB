@@ -1,11 +1,10 @@
-# ¡Hi! I'm Braulio Sanchez
+# Hi, I'm Braulio Sanchez
 
 ## About me
 
-Currently I'm a Computer Science student at the University of Sonora and I love to learn new things and face new challenges.
+Currently I'm a Computer Science student at the University of Sonora. I'm a passionate person about multiple areas such as Theory of Computation, AI, Mathematics, Physics and Software Engineering.
 
 **Contact:** sanchezbraulio542@gmail.com  
-**What I like:** I like to solve problems and create things that make life easier or more fun.
 
 ### AI & Machine Learning Projects
 
